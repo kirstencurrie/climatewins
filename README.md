@@ -7,6 +7,10 @@ This project uses machine learning techniques to predict the consequences of cli
 - Predict extreme weather events in Europe using machine learning models
 - Analyze temperature trends from European weather stations over the past century
 - Identify specific weather patterns that may precede favorable or dangerous conditions
+- Identify weather patterns outside the regional norm in Europe.
+- Determine if unusual weather patterns are increasing.
+- Generate possibilities for future weather conditions over the next 25 to 50 years based on current trends.
+- Determine the safest places for people to live in Europe over the next 25 to 50 years.
 
 ## Data Source
 - [European Climate Assessment & Dataset project](https://www.ecad.eu/)
