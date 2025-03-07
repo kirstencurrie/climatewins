@@ -29,6 +29,7 @@ This project uses machine learning techniques to predict the consequences of cli
 - KNN model showed the best performance among the tested models
 - Temperature extremes have generally increased over time in the studied locations
 - Potential overfitting identified in some station data (e.g., Sonnblick)
+- Utilizing multiple learning methods (e.g important features from Random Forests & time series prediction with RNNs) can help develop research
 
 ## Future Steps
 - Refine and optimize the KNN model
@@ -44,6 +45,8 @@ This project uses machine learning techniques to predict the consequences of cli
 - Pandas
 - NumPy
 - Matplotlib
+- Keras
+- Scikit Learn
 
 ## Contributors
 Kirsten Currie
