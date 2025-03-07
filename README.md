@@ -20,6 +20,10 @@ This project uses machine learning techniques to predict the consequences of cli
 - K-Nearest Neighbors (KNN)
 - Decision Trees
 - Artificial Neural Networks (ANN)
+- Convolution Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- Random Forests
+- GANs
 
 ## Key Findings
 - KNN model showed the best performance among the tested models
