@@ -14,6 +14,7 @@ This project uses machine learning techniques to predict the consequences of cli
 - Data range: Late 1800s to 2022
 - Daily recordings of temperature, wind speed, snow, global radiation, etc.
 - [Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv)
+- [GAN Weather Image Dataset (Kaggle)](https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset)
 
 ## Methods Used
 - Gradient Descent for data optimization
