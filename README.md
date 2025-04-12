@@ -3,7 +3,7 @@
 ![Image of lake in Europe during winter](assets/climatewins_cover.jpg)
 
 ## Project Overview
-This project uses machine learning techniques to predict the consequences of climate change in Europe. It's part of an initiative by ClimateWins, a European nonprofit organization, to leverage data analysis for climate change understanding and prediction.
+This project uses machine learning techniques to predict the consequences of climate change in Europe. It's part of an initiative by ClimateWins, a non-profit European organization, to leverage data analysis for climate change understanding and prediction.
 
 ## Objectives
 - Predict extreme weather events in Europe using machine learning models
